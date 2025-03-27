@@ -21,14 +21,14 @@ pre, code, samp, kbd {
   font-family: monospace,monospace;
 }
 pre, blockquote {
-  background: #5d5d5d;
+  background: #424145;
   padding: 0.5em;
 }
 pre {
   overflow: auto;
 }
 blockquote {
-  border-left: medium solid #424145;
+  border-left: medium solid #5d5d5d;
   margin: 1em 0;
 }
 blockquote :first-child {
